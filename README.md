@@ -1,8 +1,12 @@
-[![MasterHead](https://skilltouchng.com/images/compschool_tabs/full-stack-developer%20abuja%20learnwebdevelopment%20fast.png)](https://rishavchanda.io)
+<!-- [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifEVbTPDYmXlpgyXAvoaeANl-Dkqw_4bqIQ&usqp=CAU)](https://rishavchanda.io) -->
+
+<p align = "center"><img  width= "100%" height = "300px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifEVbTPDYmXlpgyXAvoaeANl-Dkqw_4bqIQ&usqp=CAU" alt = "banner"></p>
+
+
 <h1 align="center">Hi 👋, I'm Rahul Pandey</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-6472&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-6472" /> </p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rahul-6472&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-6472" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-6472" alt="rahul-6472" /></a> </p>
 
