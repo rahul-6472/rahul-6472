@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahulpandey6472" target="blank"><img src="https://img.shields.io/twitter/follow/rahulpandey6472?logo=twitter&style=for-the-badge" alt="rahulpandey6472" /></a> </p>
 
-- 🔭 I’m currently working on **Airbnb**
+- 🔭 I’m currently working on **Airbnb - clone website**
 
 - 🌱 I’m currently learning **MERN STACK**
 
