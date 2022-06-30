@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **React, redux, javascript, css, html, Data structure and Algorithm**
+- 💬 Ask me about **React, Redux, Javascript, CSS, HTML, Data structure and Algorithm**
 
 - 📫 How to reach me **rahulpandey0663@gmail.com**
 
